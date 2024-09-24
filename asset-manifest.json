@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/event-managemnt-system/static/css/main.82186930.css",
+    "main.js": "/github.io/event-managemnt-system/static/js/main.635a6342.js",
+    "static/js/453.5bd95917.chunk.js": "/github.io/event-managemnt-system/static/js/453.5bd95917.chunk.js",
+    "index.html": "/github.io/event-managemnt-system/index.html",
+    "main.82186930.css.map": "/github.io/event-managemnt-system/static/css/main.82186930.css.map",
+    "main.635a6342.js.map": "/github.io/event-managemnt-system/static/js/main.635a6342.js.map",
+    "453.5bd95917.chunk.js.map": "/github.io/event-managemnt-system/static/js/453.5bd95917.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82186930.css",
+    "static/js/main.635a6342.js"
+  ]
+}
